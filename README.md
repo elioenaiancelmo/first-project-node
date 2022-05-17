@@ -76,11 +76,10 @@ o array deve ficar assim:
 
 ### Technologies 
 
-The following tools were used in this project:
+Neste projeto foram utilizadas as seguintes ferramentas:
 
-- [Node.js](https://nodejs.org/en/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
- 
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ### Colaboradores
 
